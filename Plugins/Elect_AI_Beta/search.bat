@@ -1,0 +1,1 @@
+find /i "%%a" plugins\Elect_Assistant\Elect_Thinking.data>nul
